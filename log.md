@@ -1,25 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 6, 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Well, I tweeted my public commitment on twitter
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I've planned and prepared for this for the past 3 days now so I'm feeling a little bit confident about the challange... maybe be a little too confident, lol. I also told some developer guys in my network that I barely know.. now I reallyyy gotta go through with this! lol. But as you can tell I am full postive vibes only! and hopefully I maintain this till the end.. xiao
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** https://twitter.com/MisterTaavetti/status/1302761788677685254?s=20
 
 
-### Day 1: June 27, Monday
+
+### Day 1: September 7, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
