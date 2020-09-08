@@ -12,10 +12,9 @@
 
 ### Day 1: September 7, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: So I wrote the html for my freecodecamp tribute page project. Yen yen yen yen "html is not a programming language" whatever! What's important is that I did it!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Aaaaaaaaargh!!! Had a meeting that ran for 4 hours and well past midnight leaving me with very little time to do all I intented to do. Well, I guess little progress is better than no progress.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+https://codepen.io/divadaloba/full/jOqZPgK
