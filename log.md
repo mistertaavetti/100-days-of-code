@@ -17,4 +17,16 @@
 **Thoughts** Aaaaaaaaargh!!! Had a meeting that ran for 4 hours and well past midnight leaving me with very little time to do all I intented to do. Well, I guess little progress is better than no progress.
 
 **Link(s) to work**
-https://codepen.io/divadaloba/full/jOqZPgK
+https://codepen.io/mistertaavetti/full/jOqZPgK
+
+
+
+### Day 2: September 8, Tuesday
+
+**Today's Progress**: I wrote the css for and completed the tribute page I started yesterday. I published it on codepen and github. 
+
+**Thoughts** Easy peasy.. no stress. It's something I've done over and over again before now. Just thought starting with the FreeCodeCamp's Responsive Web Design Projects is a good way to ease into the challenge. My focus at this point (the beginning) is on building the habit and coding consistently. As I progress, I'll begin to focus more on performance.
+
+**Link(s) to work**
+https://codepen.io/mistertaavetti/full/jOqZPgK
+https://mistertaavetti.github.io/Tribute-Page/
