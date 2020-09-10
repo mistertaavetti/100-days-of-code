@@ -30,3 +30,13 @@ https://codepen.io/mistertaavetti/full/jOqZPgK
 **Link(s) to work**
 https://codepen.io/mistertaavetti/full/jOqZPgK
 https://mistertaavetti.github.io/Tribute-Page/
+
+
+### Day 3: September 9, Wednesday
+
+**Today's Progress**: I did the FreCodeCamp Tribute Page Project. 
+
+**Thoughts** So I'm kinda bothered that my current process through this isn't producing err "original" work, right. Like, cos I literally can just copy the code of the existing template and submit that and I'll still get a pass. What I've been doing so far tho, is to copy the code, change all of the content and almost rewrite the entire html while I'm at it, and then customizing the CSS. so for the next project I want to write the entire HTML of the sample provided from scratch. Then I'mma change up the content and customise the CSS as usual. I'll do that for the next 2 projects, and on the final one, I'm going to design a custom website (fulfilling the required user stories ofcourse) and then code that. That one might take a while tho - a few days probably. I am concerned tho, that cos the time I spend designing ain't gonna count for the challenge.. I don't know. these are just my current thoughts. I'll figure it out. it's 2:42Am (next day) I better catch some sleep.
+
+**Link(s) to work**
+https://codepen.io/mistertaavetti/full/YzqaNMV
