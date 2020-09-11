@@ -50,3 +50,14 @@ https://codepen.io/mistertaavetti/full/YzqaNMV
 **Thoughts** I really want to code really cool and original concepts/designs for my projects, but I haven't figured how to create the time to design the projects before coding yet.
 
 **Link(s) to work**
+
+
+
+### Day 5: September 11, Friday
+
+**Today's Progress**: I hand-typed the html and css for the landing page freecodecamp project and fulfilled all of the user stories
+
+**Thoughts** I'm feeling quite proud of myself. I wrote HTML/CSS without copy and pasting! Great accomplishment for me! I think I will keep this up for the rest of the freeodecamp html/css projects
+
+**Link(s) to work**
+https://codepen.io/mistertaavetti/full/ZEWoJKz 
