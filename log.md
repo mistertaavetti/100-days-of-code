@@ -40,3 +40,13 @@ https://mistertaavetti.github.io/Tribute-Page/
 
 **Link(s) to work**
 https://codepen.io/mistertaavetti/full/YzqaNMV
+
+
+
+### Day 4: September 10, Thursday
+
+**Today's Progress**: I wasn't able to work on any coding projects today. It was a busy day and then I had a power failure at midnight. It was too lte to do anything about it then. So I guess this means I gotta do 101DaysOfCode Now.. oh well #WeMove!
+
+**Thoughts** I really want to code really cool and original concepts/designs for my projects, but I haven't figured how to create the time to design the projects before coding yet.
+
+**Link(s) to work**
