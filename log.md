@@ -61,3 +61,15 @@ https://codepen.io/mistertaavetti/full/YzqaNMV
 
 **Link(s) to work**
 https://codepen.io/mistertaavetti/full/ZEWoJKz 
+
+
+
+
+### Day 6: September 12, Saturday
+
+**Today's Progress**: I created an HTML/CSS boilerplate template.
+
+**Thoughts** I set out to code a custom design for my landing page but ended up creating a boilerplate that I'd be improving continously for use for my future html/css projects.
+
+**Link(s) to work**
+https://github.com/mistertaavetti/HTML-CSS-Boilerplate/
