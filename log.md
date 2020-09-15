@@ -73,3 +73,13 @@ https://codepen.io/mistertaavetti/full/ZEWoJKz
 
 **Link(s) to work**
 https://github.com/mistertaavetti/HTML-CSS-Boilerplate/
+
+
+### Day 7: September 14, Saturday
+
+**Today's Progress**: I worked on the header of my landing page and on my boilerplate.. I'm adding a component library to it.
+
+**Thoughts** I missed a day. It was a hectic one and I needed to rest. Don't feel great about missing it tho. 
+
+**Link(s) to work**
+https://github.com/mistertaavetti/Landing-Page
