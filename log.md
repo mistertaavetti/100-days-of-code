@@ -75,11 +75,22 @@ https://codepen.io/mistertaavetti/full/ZEWoJKz
 https://github.com/mistertaavetti/HTML-CSS-Boilerplate/
 
 
-### Day 7: September 14, Saturday
+### Day 7: September 14, Monday
 
 **Today's Progress**: I worked on the header of my landing page and on my boilerplate.. I'm adding a component library to it.
 
 **Thoughts** I missed a day. It was a hectic one and I needed to rest. Don't feel great about missing it tho. 
+
+**Link(s) to work**
+https://github.com/mistertaavetti/Landing-Page
+
+
+
+### Day 8: September 15, Tuesday
+
+**Today's Progress**: I added the elements and basic layout/structure of the hero section of my landing page project.
+
+**Thoughts** I'm learning that designing while you are coding (or vice versa) is a bad idea. 
 
 **Link(s) to work**
 https://github.com/mistertaavetti/Landing-Page
