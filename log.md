@@ -103,7 +103,7 @@ https://github.com/mistertaavetti/Landing-Page
 
 **Today's Progress**: I completed the the hero section and added the features section of my landing page project.
 
-**Thoughts** I'm learning that designing while you are coding (or vice versa) is a bad idea. 
+**Thoughts** I'm beginning to enjoy this. 
 
 **Link(s) to work**
 https://github.com/mistertaavetti/Landing-Page
