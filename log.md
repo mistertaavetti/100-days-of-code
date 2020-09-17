@@ -99,7 +99,7 @@ https://github.com/mistertaavetti/Landing-Page
 
 
 
-### Day 9: September 15, Tuesday
+### Day 9: September 16, Wednesday
 
 **Today's Progress**: I completed the the hero section and added the features section of my landing page project.
 
