@@ -94,3 +94,16 @@ https://github.com/mistertaavetti/Landing-Page
 
 **Link(s) to work**
 https://github.com/mistertaavetti/Landing-Page
+
+
+
+
+
+### Day 9: September 15, Tuesday
+
+**Today's Progress**: I completed the the hero section and added the features section of my landing page project.
+
+**Thoughts** I'm learning that designing while you are coding (or vice versa) is a bad idea. 
+
+**Link(s) to work**
+https://github.com/mistertaavetti/Landing-Page
