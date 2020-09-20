@@ -107,3 +107,37 @@ https://github.com/mistertaavetti/Landing-Page
 
 **Link(s) to work**
 https://github.com/mistertaavetti/Landing-Page
+
+
+
+### Day 10: September 17, Thursday
+
+**Today's Progress**: I begun work on the pricing section.
+
+**Thoughts** It's beginning to get tough to keep up with this habit... somedays I'm so tired and sleepy and it's tough to fight that. I'm learning a lot from trial and error.
+
+**Link(s) to work**
+https://github.com/mistertaavetti/Landing-Page
+
+
+
+### Day 11: September 18, Friday
+
+**Today's Progress**: I didn't code today.
+
+**Thoughts** Aaaaargh!! Power issues. I'm realizing that that's going to be major blocker to this challenge. I need to sort that shit out. makes it 3 days I haven't coded now.
+
+**Link(s) to work**
+https://github.com/mistertaavetti/Landing-Page
+
+
+
+
+### Day 12: September 18, Saturday
+
+**Today's Progress**: I completed the pricing section.
+
+**Thoughts** We move!
+
+**Link(s) to work**
+https://github.com/mistertaavetti/Landing-Page
